@@ -107,7 +107,7 @@ OR
 
 > Output expected
 
-<pre><code><img src='public/output.png' alt='output' width=auto height=auto><br>
-</code></pre>
+<p align="center"><img src='public/output.png' alt='output' width=auto height=auto><br>
+</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
