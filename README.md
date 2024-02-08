@@ -1,4 +1,4 @@
-# :palm_tree: Inferring Transcript Phylogenies from Transcript Ortholog Clusters :palm_tree:
+<h1 align="center"> :palm_tree: Inferring Transcript Phylogenies from Transcript Ortholog Clusters :palm_tree: </h1>
 
 <p align="center">
 <img src='./theme.png' alt='theme' width=auto height=300><br>
