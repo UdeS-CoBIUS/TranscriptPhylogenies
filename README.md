@@ -1,7 +1,7 @@
 <h1 align="center"> :palm_tree: Inferring Transcript Phylogenies from Transcript Ortholog Clusters :palm_tree: </h1>
 
 <p align="center">
-<img src='./theme.png' alt='theme' width=auto height=300><br>
+<img src='public/theme.png' alt='theme' width=auto height=300><br>
 </p>
 
 :busts_in_silhouette: __Authors__
@@ -38,8 +38,7 @@
 
 <!-- OPERATING SYSTEM -->
 <h3 name="os"> :man_technologist: Operating System</h3>
-The program was both developed and tested on a system operating Ubuntu version 22.04.6 LTS and Windows 11.
----
+The program was both developed and tested on a system operating Ubuntu version 22.04.6 LTS and Windows 11 OS.
 
 <!-- Requirements -->
 <h3 name="requirements"> :hammer_and_pick: Requirements</h3>
@@ -99,3 +98,16 @@ options:
                         prefix of output files
   -c COMPUTE, --compute COMPUTE
                         0 | 1, Compute all solutions(By default False(1))</code></pre>
+
+> Usage example
+
+<pre><code>python3 scripts/minevolrec.py -l 0 -map example/mappings.maps -clus example/clusters.clus -nhx example/tree.nhx -matx example/matrix.matx </code></pre>
+OR
+<pre><code>sh ./minevolrec.sh</code></pre>
+
+> Output expected
+
+<pre><code><img src='public/output.png' alt='theme' width=auto height=auto><br>
+</code></pre>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)

@@ -1,0 +1,1 @@
+python3 scripts/minevolrec.py -l 0 -map example/inputs/mappings.maps -clus example/inputs/clusters.clus -nhx example/inputs/tree.nhx -matx example/inputs/matrix.matx -join 1 -outf example/outputs -c 1
