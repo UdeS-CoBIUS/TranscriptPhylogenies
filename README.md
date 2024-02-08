@@ -1,7 +1,7 @@
 # :palm_tree: Inferring Transcript Phylogenies from Transcript Ortholog Clusters :palm_tree:
 
 <p align="center">
-<img src='./theme.png' alt='theme' width=auto height=300><br>
+<img src='./theme.png' alt='theme' width=500 height=300><br>
 </p>
 
 :busts_in_silhouette: __Authors__
