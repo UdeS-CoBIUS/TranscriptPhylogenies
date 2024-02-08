@@ -1,8 +1,8 @@
 # :palm_tree: Inferring Transcript Phylogenies from Transcript Ortholog Clusters :palm_tree:
 
-<!-- <p align="center"> -->
+<p align="center">
 <img src='./theme.png' alt='theme' width=auto height=300><br>
-<!-- </p> -->
+</p>
 
 :busts_in_silhouette: __Authors__
 * __Wend Yam D D Ouedraogo & Aida Ouangraoua__, CoBIUS LAB, Department of Computer Science, Faculty of Science, Université de Sherbrooke, Sherbrooke, Canada*
