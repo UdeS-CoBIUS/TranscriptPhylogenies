@@ -5,7 +5,7 @@
 </p>
 
 :busts_in_silhouette: __Authors__
-* __Wend Yam D D Ouedraogo & Aida Ouangraoua__, CoBIUS LAB, Department of Computer Science, Faculty of Science, Université de Sherbrooke, Sherbrooke, Canada*
+* __Wend Yam D D Ouedraogo & Aida Ouangraoua__, CoBIUS lab, Department of Computer Science, Faculty of Science, Université de Sherbrooke, Sherbrooke, Canada*
 
 > :bulb: If you are using our algorithm in your research, please cite our recent paper: __Upcoming__ 
 
@@ -111,3 +111,27 @@ OR
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2 name="project-files-description"> :file_folder: Project Files Description</h2>
+
+
+<h3 name="project-files-description-inputs"> :keyboard: Inputs description </h3>
+
+__Inputs files__
+
+> `mappings.maps`
+
+A file that lists each transcript (t) in the observation with is corresponding gene (g). The row format is as follows:
+**>t:g**
+
+> `clusters.clus`
+
+A file that lists each transcript (t) in the observation along with the cluster id (IDcluster) where it is included. The row format is as folows: **>t:IDcluster**
+
+> `matrix.matx`
+
+A *CSV* file that describes the pairwise similarity score for a set of observed transcripts.  The file must contains a header and records separated by the character *';'*. The header should be as follows : **['transcripts', [record]]**. An example is given in the folder 'example/input/'.
+
+:bangbang: The transcript similarity used for the pre-computation of the matrix file is described in <a href="https://github.com/UdeS-CoBIUS/TranscriptOrthology">another repository</a> [<a href="https://link.springer.com/chapter/10.1007/978-3-031-36911-7_2">:book: read the paper</a>]
+
+> `tree.nhx`
