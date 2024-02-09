@@ -61,6 +61,7 @@ The program was both developed and tested on a system operating Ubuntu version 2
 
 > ***upcoming***
 
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- Getting started -->
@@ -117,21 +118,51 @@ OR
 
 <h3 name="project-files-description-inputs"> :keyboard: Inputs description </h3>
 
-__Inputs files__
+__Inputs files [mandatory parameters]__
 
-> `mappings.maps`
+> `mappings.maps [-map mappings.maps]`
 
-A file that lists each transcript (t) in the observation with is corresponding gene (g). The row format is as follows:
+A file that lists each transcript (t) in the observation along with its corresponding gene (g). The row format is as follows:
 **>t:g**
 
-> `clusters.clus`
+> `clusters.clus [-clus clusters.clus]`
 
 A file that lists each transcript (t) in the observation along with the cluster id (IDcluster) where it is included. The row format is as folows: **>t:IDcluster**
 
-> `matrix.matx`
+> `matrix.matx [-matx matrix.matx]`
 
 A *CSV* file that describes the pairwise similarity score for a set of observed transcripts.  The file must contains a header and records separated by the character *';'*. The header should be as follows : **['transcripts', [record]]**. An example is given in the folder 'example/input/'.
 
 :bangbang: The transcript similarity used for the pre-computation of the matrix file is described in <a href="https://github.com/UdeS-CoBIUS/TranscriptOrthology">another repository</a> [<a href="https://link.springer.com/chapter/10.1007/978-3-031-36911-7_2">:book: read the paper</a>]
 
-> `tree.nhx`
+> `tree.nhx [-nhx tree.nhx]`
+
+A *NHX* tree describing the evolution of the studied gene family.
+
+
+--- 
+
+<h3 name="project-files-description-outputs"> :minidisc: Outputs description </h3>
+
+__Outputs folders/files__
+
+> dendogram 
+
+    The folder contains the guide tree in NEWICK.
+
+> ortholog_trees
+
+    The folder contains each ortholog trees.
+
+> solution.nhx
+
+    The file contain the reconstructed transcript phylogeny In NHX format 
+
+> solution.svg
+
+    The file yield a visualization of the transcript tree, as follows for instance:
+
+ <p align="center"><img src='public/solution.svg' alt='solution' width=auto height=auto><br>
+</p>
+
+    green node: creation, red node: gene duplication, blue node: apeciation. The transcripts in the same ortholog trees are displayed with a distinct color at the leaves. The LCA-reconciliation cost is given at the top of the figure.
