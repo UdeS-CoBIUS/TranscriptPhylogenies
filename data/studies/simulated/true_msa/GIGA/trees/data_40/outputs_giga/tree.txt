@@ -1,0 +1,12 @@
+Sequence transcript*4-19_ppan (index 6) is a fragment (264 of 669 positions aligned). Not used to build tree. Removed during prefiltering.
+Nearest sequence is transcript*4-0_ppan
+Sequence transcript*5-19_ptro (index 22) is a fragment (264 of 669 positions aligned). Not used to build tree. Removed during prefiltering.
+Nearest sequence is transcript*4-0_ppan
+joining fragments
+finished joining fragments
+making gene tree
+completed gene tree
+MAIN:inferred ancestral seqs
+MAIN:got branch lengths
+(((((transcript*4-9_ppan:0.000,transcript*5-9_ptro:0.000):0.000,transcript*6-9_hsap:0.000):0.000,((transcript*4-10_ppan:0.000,transcript*5-10_ptro:0.000):0.000,transcript*6-10_hsap:0.000):0.000,((transcript*4-13_ppan:0.000,transcript*5-13_ptro:0.000):0.000,transcript*6-13_hsap:0.000):0.000,(((transcript*4-17_ppan:0.000,transcript*5-17_ptro:0.000):0.000,(transcript*4-18_ppan:0.000,transcript*5-18_ptro:0.000):0.000,(transcript*4-24_ppan:0.000,transcript*5-24_ptro:0.000):0.000,(transcript*4-25_ppan:0.000,transcript*5-25_ptro:0.000):0.000,(transcript*4-26_ppan:0.000,transcript*5-26_ptro:0.000):0.000,(transcript*4-29_ppan:0.000,transcript*5-29_ptro:0.000):0.000,(transcript*4-30_ppan:0.000,transcript*5-30_ptro:0.000):0.000,(transcript*4-31_ppan:0.000,transcript*5-31_ptro:0.000):0.000,(transcript*4-33_ppan:0.000,transcript*5-33_ptro:0.000):0.000,(transcript*4-34_ppan:0.000,transcript*5-34_ptro:0.000):0.000,(transcript*4-36_ppan:0.000,transcript*5-36_ptro:0.000):0.000,((transcript*4-19_ppan:2.000,transcript*4-0_ppan:0.963):0.000,(transcript*5-19_ptro:2.000,transcript*5-0_ptro:0.963):0.000):0.989):0.000,transcript*6-0_hsap:0.000):0.000):0.000,transcript*7-0_ggor:0.000):0.000,transcript*8-0_pabe:0.000);
+MAIN:printed gene tree

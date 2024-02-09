@@ -1,0 +1,10 @@
+id_transcript;recent-paralogs;ortho-orthologs;para-orthologs;#cluster
+transcript_4-3_ppan;null;transcript_5-3_ptro|1.0&transcript_6-3_hsap|1.0&transcript_7-3_ggor|1.0&transcript_8-3_pabe|1.0;null;0
+transcript_5-3_ptro;null;transcript_4-3_ppan|1.0&transcript_6-3_hsap|1.0&transcript_7-3_ggor|1.0&transcript_8-3_pabe|1.0;null;0
+transcript_6-3_hsap;null;transcript_4-3_ppan|1.0&transcript_5-3_ptro|1.0&transcript_7-3_ggor|1.0&transcript_8-3_pabe|1.0;null;0
+transcript_7-3_ggor;null;transcript_4-3_ppan|1.0&transcript_5-3_ptro|1.0&transcript_6-3_hsap|1.0&transcript_8-3_pabe|1.0;null;0
+transcript_8-3_pabe;null;transcript_4-3_ppan|1.0&transcript_5-3_ptro|1.0&transcript_6-3_hsap|1.0&transcript_7-3_ggor|1.0;null;0
+transcript_4-19_ppan;null;transcript_5-19_ptro|1.0;null;1
+transcript_5-19_ptro;null;transcript_4-19_ppan|1.0;null;1
+transcript_5-20_ptro;null;transcript_4-20_ppan|1.0;null;2
+transcript_4-20_ppan;null;transcript_5-20_ptro|1.0;null;2

@@ -1,0 +1,1 @@
+(((((transcript_4-14_ppan:0,transcript_5-14_ptro:0)1:0.001,(transcript_4-0_ppan:0,transcript_5-0_ptro:0)1:0)1:0,transcript_6-0_hsap:0)1:0,transcript_7-0_ggor:0)1:0,transcript_8-0_pabe:0);

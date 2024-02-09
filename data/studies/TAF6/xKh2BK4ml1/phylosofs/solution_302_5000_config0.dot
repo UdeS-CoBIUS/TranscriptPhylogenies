@@ -1,0 +1,100 @@
+strict digraph G {
+colorscheme=set13;
+directed=True;
+margin="0.0";
+newrank=True;
+outputorder=edgesfirst;
+rankdir=TB;
+splines=False;
+"1#0" [colorscheme=set13, fillcolor=1, height="0.7", label="", shape=egg, style=filled, width=1];
+subgraph cluster_1 {
+label="";
+rank=same;
+"1#0";
+}
+
+"2#0" [colorscheme=set13, fillcolor=1, height="0.7", label="", shape=egg, style=filled, width=1];
+"2#1" [colorscheme=set13, fillcolor=2, height="0.7", label="", shape=egg, style=filled, width=1];
+"2#2" [colorscheme=set13, fillcolor=3, height="0.7", label="", shape=egg, style=filled, width=1];
+subgraph cluster_2 {
+label="";
+rank=same;
+"2#0";
+"2#1";
+"2#2";
+}
+
+"3#0" [colorscheme=set13, fillcolor=1, height="0.7", label="", shape=egg, style=filled, width=1];
+subgraph cluster_3 {
+label="";
+rank=sink;
+"3#0";
+}
+
+"4#0" [colorscheme=set13, fillcolor=1, height="0.7", label="", shape=egg, style=filled, width=1];
+"4#1" [colorscheme=set13, fillcolor=2, height="0.7", label="", shape=egg, style=filled, width=1];
+"4#2" [colorscheme=set13, fillcolor=3, height="0.7", label="", shape=egg, style=filled, width=1];
+subgraph cluster_4 {
+label="";
+rank=same;
+"4#0";
+"4#1";
+"4#2";
+}
+
+"5#0" [colorscheme=set13, fillcolor=1, height="0.7", label="", shape=egg, style=filled, width=1];
+"5#1" [colorscheme=set13, fillcolor=2, height="0.7", label="", shape=egg, style=filled, width=1];
+"5#2" [colorscheme=set13, fillcolor=3, height="0.7", label="", shape=egg, style=filled, width=1];
+subgraph cluster_5 {
+label="";
+rank=sink;
+"5#0";
+"5#1";
+"5#2";
+}
+
+"6#0" [colorscheme=set13, fillcolor=1, height="0.7", label="", shape=egg, style=filled, width=1];
+"6#0_death" [colorscheme=set13, fillcolor=2, height="0.7", label="", shape=triangle, style=filled, width="0.3"];
+"6#1_death" [colorscheme=set13, fillcolor=3, height="0.7", label="", shape=triangle, style=filled, width="0.3"];
+subgraph cluster_6 {
+label="";
+rank=sink;
+"6#0";
+"6#0_death";
+"6#1_death";
+}
+
+"7#0" [colorscheme=set13, fillcolor=2, height="0.7", label="", shape=egg, style=filled, width=1];
+"7#1" [colorscheme=set13, fillcolor=3, height="0.7", label="", shape=egg, style=filled, width=1];
+"7#2" [height="0.7", label="", shape=egg, style=filled, width=1];
+"7#3" [height="0.7", label="", shape=egg, style=filled, width=1];
+"7#4" [height="0.7", label="", shape=egg, style=filled, width=1];
+"7#5" [colorscheme=set13, fillcolor=1, height="0.7", label="", shape=egg, style=filled, width=1];
+"7#6" [height="0.7", label="", shape=egg, style=filled, width=1];
+subgraph cluster_7 {
+label="";
+rank=sink;
+"7#0";
+"7#1";
+"7#2";
+"7#3";
+"7#4";
+"7#5";
+"7#6";
+}
+
+"1#0" -> "2#0"  [dir=none, minlen=4, weight=1];
+"1#0" -> "3#0"  [dir=none, minlen=4, weight=1];
+"2#0" -> "4#0"  [dir=none, minlen=4, weight=1];
+"2#0" -> "5#0"  [dir=none, minlen=4, weight=1];
+"2#1" -> "4#1"  [dir=none, minlen=4, weight=1];
+"2#1" -> "5#1"  [dir=none, minlen=4, weight=1];
+"2#2" -> "4#2"  [dir=none, minlen=4, weight=1];
+"2#2" -> "5#2"  [dir=none, minlen=4, weight=1];
+"4#0" -> "6#0"  [dir=none, minlen=4, weight=1];
+"4#0" -> "7#5"  [dir=none, minlen=4, weight=1];
+"4#1" -> "7#0"  [dir=none, minlen=4, weight=1];
+"4#1" -> "6#0_death"  [dir=none, minlen=4, weight=1];
+"4#2" -> "7#1"  [dir=none, minlen=4, weight=1];
+"4#2" -> "6#1_death"  [dir=none, minlen=4, weight=1];
+}

@@ -1,0 +1,13 @@
+id_transcript;recent-paralogs;ortho-orthologs;para-orthologs;#cluster
+transcript_5-0_ptro;null;transcript_8-0_pabe|1.0&transcript_4-0_ppan|1.0&transcript_7-0_ggor|1.0&transcript_6-0_hsap|1.0;null;0
+transcript_8-0_pabe;null;transcript_5-0_ptro|1.0&transcript_4-0_ppan|1.0&transcript_7-0_ggor|1.0&transcript_6-0_hsap|1.0;null;0
+transcript_4-0_ppan;null;transcript_5-0_ptro|1.0&transcript_8-0_pabe|1.0&transcript_7-0_ggor|1.0&transcript_6-0_hsap|1.0;null;0
+transcript_7-0_ggor;null;transcript_5-0_ptro|1.0&transcript_8-0_pabe|1.0&transcript_4-0_ppan|1.0&transcript_6-0_hsap|1.0;null;0
+transcript_6-0_hsap;null;transcript_5-0_ptro|1.0&transcript_8-0_pabe|1.0&transcript_4-0_ppan|1.0&transcript_7-0_ggor|1.0;null;0
+transcript_4-13_ppan;transcript_4-20_ppan|1.0;transcript_5-13_ptro|1.0&transcript_5-20_ptro|1.0;null;1
+transcript_4-20_ppan;transcript_4-13_ppan|1.0;transcript_5-13_ptro|1.0&transcript_5-20_ptro|1.0;null;1
+transcript_5-13_ptro;transcript_5-20_ptro|1.0;transcript_4-13_ppan|1.0&transcript_4-20_ppan|1.0&transcript_6-13_hsap|1.0;null;1
+transcript_6-13_hsap;null;transcript_5-13_ptro|1.0&transcript_5-20_ptro|1.0;null;1
+transcript_5-20_ptro;transcript_5-13_ptro|1.0;transcript_4-13_ppan|1.0&transcript_4-20_ppan|1.0&transcript_6-13_hsap|1.0;null;1
+transcript_4-19_ppan;null;transcript_5-19_ptro|1.0;null;2
+transcript_5-19_ptro;null;transcript_4-19_ppan|1.0;null;2

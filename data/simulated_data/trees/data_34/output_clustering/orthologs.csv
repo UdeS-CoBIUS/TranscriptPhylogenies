@@ -1,0 +1,5 @@
+id_transcript;recent-paralogs;ortho-orthologs;para-orthologs;#cluster
+transcript_4-17_ppan;null;transcript_5-17_ptro|1.0;null;0
+transcript_5-17_ptro;null;transcript_4-17_ppan|1.0;null;0
+transcript_4-27_ppan;null;transcript_5-27_ptro|1.0;null;1
+transcript_5-27_ptro;null;transcript_4-27_ppan|1.0;null;1

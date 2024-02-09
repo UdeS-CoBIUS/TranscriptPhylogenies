@@ -1,0 +1,208 @@
+Searching ID for gene with name PAX6 in species homo_sapiens ...
+Found the following list of ids: ["ENSG00000007372", "LRG_720"]
+... using gene id ENSG00000007372 from now on.
+Results will be saved in directory PAX6
+Writing the gene tree
+Looking for orthologs
+Found a total of 256 orthologs, of which 0 paralogs
+Orthologous species:
+  homo_sapiens           :   50
+  carassius_auratus      :    6
+  oncorhynchus_kisutch   :    4
+  oncorhynchus_mykiss    :    4
+  salmo_salar            :    4
+  salmo_trutta           :    4
+  sinocyclocheilus_grahami:    4
+  hucho_hucho            :    3
+  oncorhynchus_tshawytscha:    3
+  eptatretus_burgeri     :    2
+  clupea_harengus        :    2
+  danio_rerio            :    2
+  astyanax_mexicanus     :    2
+  esox_lucius            :    2
+  electrophorus_electricus:    2
+  haplochromis_burtoni   :    2
+  pygocentrus_nattereri  :    2
+  stegastes_partitus     :    2
+  denticeps_clupeoides   :    2
+  nomascus_leucogenys    :    1
+  pan_paniscus           :    1
+  pongo_abelii           :    1
+  pan_troglodytes        :    1
+  gorilla_gorilla        :    1
+  ornithorhynchus_anatinus:    1
+  sarcophilus_harrisii   :    1
+  notamacropus_eugenii   :    1
+  choloepus_hoffmanni    :    1
+  dasypus_novemcinctus   :    1
+  erinaceus_europaeus    :    1
+  echinops_telfairi      :    1
+  callithrix_jacchus     :    1
+  cercocebus_atys        :    1
+  macaca_fascicularis    :    1
+  macaca_mulatta         :    1
+  macaca_nemestrina      :    1
+  papio_anubis           :    1
+  mandrillus_leucophaeus :    1
+  tursiops_truncatus     :    1
+  vulpes_vulpes          :    1
+  mus_spretus            :    1
+  equus_asinus           :    1
+  capra_hircus           :    1
+  loxodonta_africana     :    1
+  panthera_leo           :    1
+  ailuropoda_melanoleuca :    1
+  oryctolagus_cuniculus  :    1
+  equus_caballus         :    1
+  panthera_pardus        :    1
+  balaenoptera_musculus  :    1
+  cavia_porcellus        :    1
+  felis_catus            :    1
+  ursus_americanus       :    1
+  monodelphis_domestica  :    1
+  monodon_monoceros      :    1
+  sus_scrofa             :    1
+  microcebus_murinus     :    1
+  octodon_degus          :    1
+  jaculus_jaculus        :    1
+  ursus_maritimus        :    1
+  ochotona_princeps      :    1
+  delphinapterus_leucas  :    1
+  physeter_catodon       :    1
+  mus_caroli             :    1
+  mus_musculus           :    1
+  dipodomys_ordii        :    1
+  aotus_nancymaae        :    1
+  chlorocebus_sabaeus    :    1
+  tupaia_belangeri       :    1
+  mesocricetus_auratus   :    1
+  phocoena_sinus         :    1
+  camelus_dromedarius    :    1
+  carlito_syrichta       :    1
+  rattus_norvegicus      :    1
+  prolemur_simus         :    1
+  microtus_ochrogaster   :    1
+  sorex_araneus          :    1
+  bos_mutus              :    1
+  mus_spicilegus         :    1
+  pteropus_vampyrus      :    1
+  myotis_lucifugus       :    1
+  vombatus_ursinus       :    1
+  rhinolophus_ferrumequinum:    1
+  neovison_vison         :    1
+  bos_taurus             :    1
+  rhinopithecus_bieti    :    1
+  sciurus_vulgaris       :    1
+  phascolarctos_cinereus :    1
+  procavia_capensis      :    1
+  nannospalax_galili     :    1
+  bos_grunniens          :    1
+  chinchilla_lanigera    :    1
+  catagonus_wagneri      :    1
+  ictidomys_tridecemlineatus:    1
+  otolemur_garnettii     :    1
+  cebus_imitator         :    1
+  urocitellus_parryii    :    1
+  moschus_moschiferus    :    1
+  rhinopithecus_roxellana:    1
+  mus_pahari             :    1
+  propithecus_coquereli  :    1
+  callorhinchus_milii    :    1
+  latimeria_chalumnae    :    1
+  lepisosteus_oculatus   :    1
+  ictalurus_punctatus    :    1
+  gadus_morhua           :    1
+  fundulus_heteroclitus  :    1
+  poecilia_reticulata    :    1
+  xiphophorus_maculatus  :    1
+  oryzias_latipes        :    1
+  cyclopterus_lumpus     :    1
+  oreochromis_niloticus  :    1
+  astatotilapia_calliptera:    1
+  sparus_aurata          :    1
+  lates_calcarifer       :    1
+  xenopus_tropicalis     :    1
+  sphenodon_punctatus    :    1
+  crocodylus_porosus     :    1
+  laticauda_laticaudata  :    1
+  notechis_scutatus      :    1
+  pseudonaja_textilis    :    1
+  gallus_gallus          :    1
+  meleagris_gallopavo    :    1
+  serinus_canaria        :    1
+  parus_major            :    1
+  anolis_carolinensis    :    1
+  neolamprologus_brichardi:    1
+  naja_naja              :    1
+  podarcis_muralis       :    1
+  geospiza_fortis        :    1
+  taeniopygia_guttata    :    1
+  erpetoichthys_calabaricus:    1
+  kryptolebias_marmoratus:    1
+  salvator_merianae      :    1
+  oryzias_javanicus      :    1
+  amphilophus_citrinellus:    1
+  dicentrarchus_labrax   :    1
+  amphiprion_percula     :    1
+  oryzias_sinensis       :    1
+  pelodiscus_sinensis    :    1
+  gopherus_evgoodei      :    1
+  chelonoidis_abingdonii :    1
+  seriola_dumerili       :    1
+  cottoperca_gobio       :    1
+  anser_brachyrhynchus   :    1
+  gasterosteus_aculeatus :    1
+  cynoglossus_semilaevis :    1
+  poecilia_formosa       :    1
+  myripristis_murdjan    :    1
+  sander_lucioperca      :    1
+  strigops_habroptila    :    1
+  amphiprion_ocellaris   :    1
+  betta_splendens        :    1
+  anabas_testudineus     :    1
+  labrus_bergylta        :    1
+  pundamilia_nyererei    :    1
+  mastacembelus_armatus  :    1
+  acanthochromis_polyacanthus:    1
+  nothobranchius_furzeri :    1
+  cyprinodon_variegatus  :    1
+  larimichthys_crocea    :    1
+  takifugu_rubripes      :    1
+  ficedula_albicollis    :    1
+  hippocampus_comes      :    1
+  coturnix_japonica      :    1
+  poecilia_latipinna     :    1
+  maylandia_zebra        :    1
+  tetraodon_nigroviridis :    1
+  paramormyrops_kingsleyae:    1
+  scleropages_formosus   :    1
+  leptobrachium_leishanense:    1
+  scophthalmus_maximus   :    1
+  oryzias_melastigma     :    1
+Getting all the transcripts for TSL file
+**** Query species : homo_sapiens
+Got a total of 97 transcripts with biotypes
+  protein_coding         :   58
+  retained_intron        :   15
+  lncRNA                 :   13
+  protein_coding_CDS_not_defined:   10
+  nonsense_mediated_decay:    1
+**** Orthologues
+mus_musculus          :   28 transcripts 
+rattus_norvegicus     :    3 transcripts 
+takifugu_rubripes     :   10 transcripts 
+Getting exons sequences
+Getting the sequences files for ENSG00000007372
+Getting exons information for mus_musculus:ENSMUSG00000027168
+  - 73 exons
+  - 73 fasta sequences
+  - 200 lines in the exon table
+Getting exons information for rattus_norvegicus:ENSRNOG00000004410
+  - 14 exons
+  - 14 fasta sequences
+  - 36 lines in the exon table
+Getting exons information for takifugu_rubripes:ENSTRUG00000006935
+  - 26 exons
+  - 26 fasta sequences
+  - 114 lines in the exon table
+------------------- transcript_query finished -------------------

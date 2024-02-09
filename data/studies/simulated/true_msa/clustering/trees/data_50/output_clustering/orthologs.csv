@@ -1,0 +1,4 @@
+id_transcript;recent-paralogs;ortho-orthologs;para-orthologs;#cluster
+transcript_6-2_hsap;null;transcript_7-2_ggor|1.0&transcript_8-2_pabe|1.0;null;0
+transcript_7-2_ggor;null;transcript_6-2_hsap|1.0&transcript_8-2_pabe|1.0;null;0
+transcript_8-2_pabe;null;transcript_6-2_hsap|1.0&transcript_7-2_ggor|1.0;null;0

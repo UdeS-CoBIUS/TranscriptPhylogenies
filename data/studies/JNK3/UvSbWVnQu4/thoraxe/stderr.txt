@@ -1,0 +1,147 @@
+WARNING:root:There are transcripts with TSL greater than 3.0:
+WARNING:root:deleting ENST00000502302
+WARNING:root:deleting ENST00000472236
+WARNING:root:deleting ENST00000513186
+WARNING:root:deleting ENST00000640490
+WARNING:root:deleting ENST00000640858
+WARNING:root:deleting ENST00000515650
+WARNING:root:deleting ENST00000639234
+WARNING:root:deleting ENST00000639175
+WARNING:root:deleting ENST00000640970
+WARNING:root:deleting ENST00000638946
+WARNING:root:deleting ENST00000640445
+WARNING:root:deleting ENST00000395157
+WARNING:root:deleting ENST00000511167
+WARNING:root:deleting ENST00000638867
+WARNING:root:deleting ENST00000359221
+WARNING:root:deleting ENST00000512017
+WARNING:root:deleting ENST00000511328
+WARNING:root:deleting ENST00000512689
+WARNING:root:deleting ENST00000640527
+WARNING:root:deleting ENST00000639989
+WARNING:root:deleting ENST00000639242
+WARNING:root:deleting ENST00000639972
+WARNING:root:deleting ENST00000449047
+WARNING:root:deleting ENST00000638313
+WARNING:root:deleting ENST00000512564
+WARNING:root:deleting ENST00000503911
+WARNING:root:deleting ENST00000436978
+WARNING:root:deleting ENST00000515400
+WARNING:root:Incomplete transcripts were found:
+WARNING:root:deleting ENST00000641826
+WARNING:root:deleting ENST00000641016
+WARNING:root:deleting ENST00000641072
+WARNING:root:deleting ENST00000641061
+WARNING:root:deleting ENSDART00000165132
+WARNING:root:deleting ENST00000641675
+WARNING:root:deleting ENST00000512046
+WARNING:root:deleting ENSDART00000163853
+WARNING:root:deleting ENST00000642048
+WARNING:root:deleting ENST00000641873
+WARNING:root:deleting ENST00000642019
+WARNING:root:deleting ENST00000641629
+WARNING:root:deleting ENST00000641408
+WARNING:root:deleting ENST00000641227
+WARNING:root:deleting ENST00000641116
+WARNING:root:deleting ENST00000641782
+WARNING:root:deleting ENST00000509464
+WARNING:root:deleting ENST00000641855
+WARNING:root:Identical isoform sequences were found, keeping only one transcript:
+WARNING:root:deleting ENST00000642015
+WARNING:root:deleting ENST00000641047
+WARNING:root:deleting ENST00000641831
+WARNING:root:deleting ENST00000641207
+WARNING:root:deleting ENST00000641050
+WARNING:root:deleting ENST00000641313
+WARNING:root:deleting ENST00000641462
+WARNING:root:deleting ENST00000642009
+WARNING:root:deleting ENST00000641555
+WARNING:root:deleting ENST00000641110
+WARNING:root:deleting ENST00000642103
+WARNING:root:deleting ENST00000642038
+WARNING:root:deleting ENST00000641983
+WARNING:root:deleting ENST00000641217
+WARNING:root:deleting ENST00000641943
+WARNING:root:deleting ENST00000641537
+WARNING:root:deleting ENST00000641066
+WARNING:root:deleting ENST00000361569
+WARNING:root:deleting ENST00000638225
+WARNING:root:deleting ENST00000641405
+WARNING:root:deleting ENST00000641911
+WARNING:root:deleting ENST00000395160
+WARNING:root:deleting ENST00000641208
+WARNING:root:deleting ENST00000641493
+WARNING:root:deleting ENST00000641237
+WARNING:root:deleting ENST00000641341
+WARNING:root:deleting ENST00000641767
+WARNING:root:deleting ENST00000641657
+WARNING:root:deleting ENSMUST00000170792
+WARNING:root:deleting ENST00000641297
+WARNING:root:deleting ENST00000641989
+WARNING:root:deleting ENST00000641051
+WARNING:root:deleting ENST00000641647
+WARNING:root:deleting ENST00000641862
+WARNING:root:deleting ENST00000641823
+WARNING:root:deleting ENST00000641553
+WARNING:root:deleting ENST00000641283
+WARNING:root:deleting ENST00000641803
+WARNING:root:deleting ENST00000641157
+WARNING:root:deleting ENST00000641902
+WARNING:root:deleting ENST00000641170
+WARNING:root:deleting ENST00000641737
+WARNING:root:deleting ENST00000641391
+WARNING:root:deleting ENST00000395166
+WARNING:root:deleting ENSDART00000161753
+WARNING:root:deleting ENST00000642032
+WARNING:root:deleting ENST00000641287
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_1.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_2.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_9.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_10.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_13.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_14.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_16.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_17.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_20.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_22.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_23.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_24.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_25.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_26.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_27.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_28.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_29.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_31.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_32.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_33.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_34.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/_intermediate/chimeric_alignment_35.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_12_1.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_1_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_23_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_28_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_25_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_32_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_24_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_33_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_17_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_13_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_31_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_29_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_10_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_8_3.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_9_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_4_1.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_22_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_2_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_16_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_8_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_14_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_15_3.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_34_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_20_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_4_2.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_26_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_35_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_27_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/mUnhKajGIq/thoraxe/msa/msa_s_exon_15_4.fasta

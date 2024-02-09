@@ -1,0 +1,8 @@
+joining fragments
+finished joining fragments
+making gene tree
+completed gene tree
+MAIN:inferred ancestral seqs
+MAIN:got branch lengths
+((((transcript*4-19_ppan:0.000,transcript*5-19_ptro:0.000):0.000,transcript*6-42_hsap:0.000):0.000,transcript*8-56_pabe:0.000):0.000,(((((transcript*4-31_ppan:0.000,transcript*5-31_ptro:0.000):0.000,transcript*6-45_hsap:0.000):0.000,((transcript*4-25_ppan:0.000,transcript*5-25_ptro:0.000):0.000,transcript*6-43_hsap:0.000):0.000,(((transcript*4-20_ppan:0.000,transcript*5-20_ptro:0.000):0.000,(transcript*4-32_ppan:0.000,transcript*5-32_ptro:0.000):0.000,(transcript*4-37_ppan:0.000,transcript*5-23_ptro:0.000):0.000,(transcript*4-23_ppan:0.000,transcript*5-26_ptro:0.000):0.000,((transcript*4-26_ppan:0.000,transcript*4-2_ppan:0.000):0.000,transcript*5-2_ptro:0.000):0.000):0.000,transcript*6-2_hsap:0.000):0.000):0.000,transcript*7-2_ggor:0.000):0.000,(transcript*8-58_pabe:0.003,transcript*8-55_pabe:0.003,transcript*8-2_pabe:0.000):0.000):0.000);
+MAIN:printed gene tree

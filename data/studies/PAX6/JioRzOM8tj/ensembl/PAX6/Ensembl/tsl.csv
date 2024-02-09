@@ -1,0 +1,139 @@
+Species,Name,TranscriptID,Source,ExperimentSource,Biotype,Flags,Version
+homo_sapiens,PAUPAR-208,ENST00000643436,havana,havana_homo_sapiens,lncRNA,NA,1
+homo_sapiens,PAUPAR-217,ENST00000646959,havana,havana_homo_sapiens,lncRNA,NA,1
+homo_sapiens,PAUPAR-215,ENST00000645942,havana,havana_homo_sapiens,lncRNA,NA,1
+homo_sapiens,PAUPAR-204,ENST00000642237,havana,havana_homo_sapiens,lncRNA,NA,1
+homo_sapiens,PAUPAR-212,ENST00000644607,havana,havana_homo_sapiens,lncRNA,NA,1
+homo_sapiens,PAUPAR-216,ENST00000646221,havana,havana_homo_sapiens,lncRNA,NA,1
+homo_sapiens,PAUPAR-209,ENST00000643671,havana,havana_homo_sapiens,lncRNA,NA,1
+homo_sapiens,PAUPAR-211,ENST00000643931,havana,havana_homo_sapiens,lncRNA,NA,1
+homo_sapiens,PAUPAR-206,ENST00000642614,havana,havana_homo_sapiens,lncRNA,NA,1
+homo_sapiens,PAUPAR-207,ENST00000642818,havana,havana_homo_sapiens,lncRNA,NA,1
+homo_sapiens,PAUPAR-214,ENST00000645848,havana,havana_homo_sapiens,lncRNA,NA,1
+homo_sapiens,PAUPAR-201,ENST00000506388,havana,havana_homo_sapiens,lncRNA,1,2
+homo_sapiens,PAUPAR-213,ENST00000645824,havana,havana_homo_sapiens,lncRNA,NA,1
+homo_sapiens,NA,ENST00000530348,havana,havana_homo_sapiens,protein_coding,4,5
+homo_sapiens,NA,ENST00000532942,havana,havana_homo_sapiens,protein_coding,2,5
+homo_sapiens,ELP4-229,ENST00000640961,ensembl_havana,ensembl_havana_transcript_homo_sapiens,protein_coding,1 (assigned to previous version 1),2
+homo_sapiens,PAX6-230,ENST00000606377,havana,havana_homo_sapiens,protein_coding,5 (assigned to previous version 6),7
+homo_sapiens,PAX6-253,ENST00000639386,havana,havana_homo_sapiens,protein_coding,5 (assigned to previous version 1),2
+homo_sapiens,PAX6-209,ENST00000419022,havana,havana_homo_sapiens,protein_coding,1,6
+homo_sapiens,PAX6-281,ENST00000643871,ensembl_havana,ensembl_havana_transcript_homo_sapiens,protein_coding,NA,1
+homo_sapiens,PAX6-243,ENST00000638914,ensembl_havana,ensembl_havana_transcript_homo_sapiens,protein_coding,1 (assigned to previous version 1),3
+homo_sapiens,PAX6-271,ENST00000640610,havana,havana_homo_sapiens,protein_coding,1,1
+homo_sapiens,PAX6-208,ENST00000379132,havana,havana_homo_sapiens,protein_coding,5,8
+homo_sapiens,PAX6-203,ENST00000379109,havana,havana_homo_sapiens,protein_coding,2,7
+homo_sapiens,PAX6-207,ENST00000379129,havana,havana_homo_sapiens,protein_coding,5,7
+homo_sapiens,PAX6-257,ENST00000639916,havana,havana_homo_sapiens,protein_coding,1,1
+homo_sapiens,PAX6-268,ENST00000640368,havana,havana_homo_sapiens,protein_coding,5 (assigned to previous version 1),2
+homo_sapiens,PAX6-235,ENST00000638685,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-202,ENST00000379107,havana,havana_homo_sapiens,protein_coding,5,7
+homo_sapiens,PAX6-255,ENST00000639409,ensembl_havana,ensembl_havana_transcript_homo_sapiens,protein_coding,1,1
+homo_sapiens,PAX6-280,ENST00000640975,havana,havana_homo_sapiens,protein_coding,1,1
+homo_sapiens,PAX6-244,ENST00000638963,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-245,ENST00000638965,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-201,ENST00000241001,havana,havana_homo_sapiens,protein_coding,1,13
+homo_sapiens,PAX6-216,ENST00000474783,havana,havana_homo_sapiens,retained_intron,5,2
+homo_sapiens,PAX6-234,ENST00000638629,havana,havana_homo_sapiens,protein_coding,2,1
+homo_sapiens,PAX6-256,ENST00000639548,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-262,ENST00000640125,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-217,ENST00000481563,havana,havana_homo_sapiens,protein_coding,5,6
+homo_sapiens,PAX6-236,ENST00000638696,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-237,ENST00000638755,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-214,ENST00000470027,havana,havana_homo_sapiens,retained_intron,2,7
+homo_sapiens,PAX6-266,ENST00000640287,havana,havana_homo_sapiens,protein_coding,1,1
+homo_sapiens,PAX6-227,ENST00000533333,havana,havana_homo_sapiens,retained_intron,2,5
+homo_sapiens,PAX6-272,ENST00000640613,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-210,ENST00000423822,havana,havana_homo_sapiens,protein_coding,5,7
+homo_sapiens,PAX6-249,ENST00000639061,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-276,ENST00000640766,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-279,ENST00000640963,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-215,ENST00000471303,havana,havana_homo_sapiens,retained_intron,5,6
+homo_sapiens,PAX6-204,ENST00000379111,havana,havana_homo_sapiens,protein_coding,5,7
+homo_sapiens,PAX6-260,ENST00000639950,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-213,ENST00000464174,havana,havana_homo_sapiens,protein_coding_CDS_not_defined,5,6
+homo_sapiens,PAX6-218,ENST00000494377,havana,havana_homo_sapiens,retained_intron,5,7
+homo_sapiens,PAX6-231,ENST00000638250,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-206,ENST00000379123,havana,havana_homo_sapiens,protein_coding,5,10
+homo_sapiens,PAX6-261,ENST00000640038,havana,havana_homo_sapiens,retained_intron,2,1
+homo_sapiens,PAX6-219,ENST00000524853,havana,havana_homo_sapiens,protein_coding,5,6
+homo_sapiens,PAX6-278,ENST00000640872,havana,havana_homo_sapiens,protein_coding,1,1
+homo_sapiens,PAX6-254,ENST00000639394,havana,havana_homo_sapiens,nonsense_mediated_decay,5,1
+homo_sapiens,PAX6-275,ENST00000640735,havana,havana_homo_sapiens,retained_intron,5,1
+homo_sapiens,PAX6-251,ENST00000639109,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-240,ENST00000638853,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-270,ENST00000640460,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-242,ENST00000638913,havana,havana_homo_sapiens,retained_intron,5,1
+homo_sapiens,PAX6-239,ENST00000638802,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-233,ENST00000638346,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-221,ENST00000530373,havana,havana_homo_sapiens,protein_coding_CDS_not_defined,5,6
+homo_sapiens,PAX6-205,ENST00000379115,havana,havana_homo_sapiens,protein_coding,5,9
+homo_sapiens,PAX6-246,ENST00000639006,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-248,ENST00000639054,havana,havana_homo_sapiens,retained_intron,5,1
+homo_sapiens,PAX6-267,ENST00000640335,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-238,ENST00000638762,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-211,ENST00000438681,havana,havana_homo_sapiens,protein_coding,5,6
+homo_sapiens,PAX6-241,ENST00000638878,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-259,ENST00000639943,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-269,ENST00000640431,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-225,ENST00000532916,havana,havana_homo_sapiens,retained_intron,3,5
+homo_sapiens,PAX6-247,ENST00000639034,havana,havana_homo_sapiens,protein_coding,5 (assigned to previous version 1),2
+homo_sapiens,PAX6-223,ENST00000531910,havana,havana_homo_sapiens,retained_intron,5,6
+homo_sapiens,PAX6-263,ENST00000640172,havana,havana_homo_sapiens,retained_intron,5,1
+homo_sapiens,PAX6-274,ENST00000640684,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-250,ENST00000639079,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-264,ENST00000640242,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-212,ENST00000455099,havana,havana_homo_sapiens,protein_coding,5,6
+homo_sapiens,PAX6-222,ENST00000530714,havana,havana_homo_sapiens,protein_coding_CDS_not_defined,5,6
+homo_sapiens,PAX6-228,ENST00000534353,havana,havana_homo_sapiens,protein_coding_CDS_not_defined,4,5
+homo_sapiens,PAX6-226,ENST00000533156,havana,havana_homo_sapiens,protein_coding_CDS_not_defined,5,2
+homo_sapiens,PAX6-258,ENST00000639920,havana,havana_homo_sapiens,protein_coding,5,1
+homo_sapiens,PAX6-229,ENST00000534390,havana,havana_homo_sapiens,retained_intron,5,2
+homo_sapiens,PAX6-220,ENST00000527769,havana,havana_homo_sapiens,retained_intron,3,5
+homo_sapiens,PAX6-224,ENST00000532175,havana,havana_homo_sapiens,retained_intron,3,5
+homo_sapiens,PAX6-265,ENST00000640251,havana,havana_homo_sapiens,protein_coding_CDS_not_defined,5,1
+homo_sapiens,PAX6-232,ENST00000638278,havana,havana_homo_sapiens,protein_coding_CDS_not_defined,NA,1
+homo_sapiens,PAX6-273,ENST00000640617,havana,havana_homo_sapiens,protein_coding_CDS_not_defined,4,1
+homo_sapiens,PAX6-252,ENST00000639203,havana,havana_homo_sapiens,protein_coding_CDS_not_defined,5,1
+homo_sapiens,PAX6-277,ENST00000640819,havana,havana_homo_sapiens,protein_coding_CDS_not_defined,5,1
+mus_musculus,Pax6os1-202,ENSMUST00000149133,havana,havana_mus_musculus,lncRNA,1 (assigned to previous version 7),8
+mus_musculus,Pax6os1-201,ENSMUST00000126948,havana,havana_mus_musculus,lncRNA,3 (assigned to previous version 1),2
+mus_musculus,Pax6-206,ENSMUST00000111086,ensembl_havana,ensembl_havana_transcript_mus_musculus,protein_coding,1 (assigned to previous version 10),11
+mus_musculus,Pax6-207,ENSMUST00000111087,havana,havana_mus_musculus,protein_coding,1 (assigned to previous version 9),10
+mus_musculus,Pax6-210,ENSMUST00000123063,havana,havana_mus_musculus,protein_coding_CDS_not_defined,1 (assigned to previous version 7),8
+mus_musculus,Pax6-214,ENSMUST00000142772,havana,havana_mus_musculus,protein_coding,3 (assigned to previous version 7),8
+mus_musculus,Pax6-208,ENSMUST00000111088,havana,havana_mus_musculus,protein_coding,1 (assigned to previous version 8),9
+mus_musculus,Pax6-217,ENSMUST00000147923,havana,havana_mus_musculus,protein_coding_CDS_not_defined,1 (assigned to previous version 2),3
+mus_musculus,Pax6-226,ENSMUST00000172990,havana,havana_mus_musculus,protein_coding_CDS_not_defined,1 (assigned to previous version 7),8
+mus_musculus,Pax6-220,ENSMUST00000153639,havana,havana_mus_musculus,retained_intron,2 (assigned to previous version 1),2
+mus_musculus,Pax6-202,ENSMUST00000090397,havana,havana_mus_musculus,protein_coding,5 (assigned to previous version 12),13
+mus_musculus,Pax6-205,ENSMUST00000111085,havana,havana_mus_musculus,protein_coding,5 (assigned to previous version 7),8
+mus_musculus,Pax6-204,ENSMUST00000111083,havana,havana_mus_musculus,protein_coding,5 (assigned to previous version 9),10
+mus_musculus,Pax6-201,ENSMUST00000090391,ensembl_havana,ensembl_havana_transcript_mus_musculus,protein_coding,1 (assigned to previous version 12),13
+mus_musculus,Pax6-203,ENSMUST00000111082,havana,havana_mus_musculus,protein_coding,1 (assigned to previous version 7),8
+mus_musculus,Pax6-224,ENSMUST00000156216,havana,havana_mus_musculus,protein_coding,5 (assigned to previous version 2),3
+mus_musculus,Pax6-219,ENSMUST00000153011,havana,havana_mus_musculus,protein_coding_CDS_not_defined,5 (assigned to previous version 7),8
+mus_musculus,Pax6-221,ENSMUST00000154302,havana,havana_mus_musculus,retained_intron,3 (assigned to previous version 2),3
+mus_musculus,Pax6-213,ENSMUST00000140173,havana,havana_mus_musculus,protein_coding_CDS_not_defined,5 (assigned to previous version 7),8
+mus_musculus,Pax6-211,ENSMUST00000135412,havana,havana_mus_musculus,protein_coding_CDS_not_defined,3 (assigned to previous version 7),8
+mus_musculus,Pax6-222,ENSMUST00000154643,havana,havana_mus_musculus,retained_intron,5 (assigned to previous version 7),8
+mus_musculus,Pax6-212,ENSMUST00000138365,havana,havana_mus_musculus,protein_coding_CDS_not_defined,2 (assigned to previous version 7),8
+mus_musculus,Pax6-215,ENSMUST00000145744,havana,havana_mus_musculus,protein_coding_CDS_not_defined,3 (assigned to previous version 7),8
+mus_musculus,Pax6-223,ENSMUST00000155081,havana,havana_mus_musculus,protein_coding_CDS_not_defined,3 (assigned to previous version 7),8
+mus_musculus,Pax6-209,ENSMUST00000123000,havana,havana_mus_musculus,retained_intron,5 (assigned to previous version 2),3
+mus_musculus,Pax6-216,ENSMUST00000146803,havana,havana_mus_musculus,protein_coding_CDS_not_defined,1 (assigned to previous version 3),4
+mus_musculus,Pax6-218,ENSMUST00000147946,havana,havana_mus_musculus,retained_intron,3 (assigned to previous version 1),2
+mus_musculus,Pax6-225,ENSMUST00000167211,ensembl,ensembl_mus_musculus,protein_coding,5 (assigned to previous version 8),9
+rattus_norvegicus,Pax6-203,ENSRNOT00000089525,ensembl,ensembl,protein_coding,NA,2
+rattus_norvegicus,Pax6-201,ENSRNOT00000005882,ensembl,ensembl,protein_coding,NA,6
+rattus_norvegicus,Pax6-202,ENSRNOT00000006302,ensembl,ensembl,protein_coding,NA,8
+takifugu_rubripes,pax6b-201,ENSTRUT00000086159,ensembl,ensembl,protein_coding,NA,1
+takifugu_rubripes,pax6b-202,ENSTRUT00000088776,ensembl,ensembl,protein_coding,NA,1
+takifugu_rubripes,pax6b-203,ENSTRUT00000087876,ensembl,ensembl,protein_coding,NA,1
+takifugu_rubripes,pax6b-204,ENSTRUT00000059484,ensembl,ensembl,protein_coding,NA,1
+takifugu_rubripes,pax6b-205,ENSTRUT00000075023,ensembl,ensembl,protein_coding,NA,1
+takifugu_rubripes,pax6b-206,ENSTRUT00000081014,ensembl,ensembl,protein_coding,NA,1
+takifugu_rubripes,pax6b-207,ENSTRUT00000083967,ensembl,ensembl,protein_coding,NA,1
+takifugu_rubripes,pax6b-208,ENSTRUT00000081914,ensembl,ensembl,protein_coding,NA,1
+takifugu_rubripes,pax6b-209,ENSTRUT00000086807,ensembl,ensembl,protein_coding,NA,1
+takifugu_rubripes,pax6b-210,ENSTRUT00000017102,ensembl,ensembl,protein_coding,NA,3

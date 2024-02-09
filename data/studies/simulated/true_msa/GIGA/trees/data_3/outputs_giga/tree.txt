@@ -1,0 +1,8 @@
+joining fragments
+finished joining fragments
+making gene tree
+completed gene tree
+MAIN:inferred ancestral seqs
+MAIN:got branch lengths
+((transcript*1-12_YGL112C:0.000,(((transcript*7-25_ENSMUSG00000036980:0.000,transcript*8-25_ENSRNOG00000001355:0.000):0.000,(transcript*10-25_ENSG00000106290:0.000,transcript*11-25_ENSPTRG00000019474:0.000):0.000):0.000,transcript*12-25_ENSDARG00000102998:0.000):0.000):0.000,(transcript*1-18_YGL112C:0.000,(((transcript*7-26_ENSMUSG00000036980:0.000,transcript*8-26_ENSRNOG00000001355:0.000):0.000,(transcript*10-26_ENSG00000106290:0.000,transcript*11-26_ENSPTRG00000019474:0.000):0.000):0.000,transcript*12-26_ENSDARG00000102998:0.000):0.000):0.000,((transcript*1-20_YGL112C:0.000,transcript*1-1_YGL112C:0.000):0.000,(((transcript*7-1_ENSMUSG00000036980:0.000,transcript*8-1_ENSRNOG00000001355:0.000):0.000,(transcript*10-1_ENSG00000106290:0.000,transcript*11-1_ENSPTRG00000019474:0.000):0.000):0.000,transcript*12-1_ENSDARG00000102998:0.000):0.000):0.000);
+MAIN:printed gene tree

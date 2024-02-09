@@ -1,0 +1,52 @@
+WARNING:root:There are transcripts with TSL greater than 3.0:
+WARNING:root:deleting ENST00000431404
+WARNING:root:deleting ENST00000452438
+WARNING:root:deleting ENST00000451699
+WARNING:root:deleting ENST00000449571
+WARNING:root:deleting ENST00000417349
+WARNING:root:deleting ENST00000523306
+WARNING:root:deleting ENSMUST00000139276
+WARNING:root:deleting ENSMUST00000123415
+WARNING:root:deleting ENST00000460673
+WARNING:root:deleting ENSMUST00000110937
+WARNING:root:deleting ENST00000429084
+WARNING:root:Identical isoform sequences were found, keeping only one transcript:
+WARNING:root:deleting ENST00000689754
+WARNING:root:deleting ENST00000687410
+WARNING:root:deleting ENST00000685280
+WARNING:root:deleting ENST00000692927
+WARNING:root:deleting ENST00000344095
+WARNING:root:deleting ENST00000453269
+WARNING:root:deleting ENST00000690367
+WARNING:root:deleting ENST00000691010
+WARNING:root:deleting ENST00000691370
+WARNING:root:deleting ENST00000687447
+WARNING:root:deleting ENST00000688498
+WARNING:root:deleting ENST00000686172
+WARNING:root:deleting ENST00000452041
+WARNING:root:deleting ENST00000686777
+WARNING:root:deleting ENST00000692408
+WARNING:root:deleting ENST00000688343
+WARNING:root:deleting ENST00000692466
+WARNING:root:deleting ENST00000693225
+WARNING:root:deleting ENSMUST00000048698
+WARNING:root:deleting ENST00000689284
+WARNING:root:deleting ENST00000687969
+WARNING:root:deleting ENST00000686580
+WARNING:root:deleting ENST00000687137
+WARNING:root:deleting ENST00000691681
+WARNING:root:deleting ENST00000688640
+WARNING:root:deleting ENST00000688086
+WARNING:root:deleting ENST00000687216
+WARNING:root:deleting ENST00000687151
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/wCaaCpvX2c/thoraxe/_intermediate/chimeric_alignment_1.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/wCaaCpvX2c/thoraxe/_intermediate/chimeric_alignment_2.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/wCaaCpvX2c/thoraxe/_intermediate/chimeric_alignment_4.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/wCaaCpvX2c/thoraxe/_intermediate/chimeric_alignment_18.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/wCaaCpvX2c/thoraxe/msa/msa_s_exon_1_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/wCaaCpvX2c/thoraxe/msa/msa_s_exon_5_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/wCaaCpvX2c/thoraxe/msa/msa_s_exon_4_1.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/wCaaCpvX2c/thoraxe/msa/msa_s_exon_2_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/wCaaCpvX2c/thoraxe/msa/msa_s_exon_18_0.fasta
+WARNING:root:There are few (1) sequences in /Ases/public/Ases/data/thoraxe/wCaaCpvX2c/thoraxe/msa/msa_s_exon_4_0.fasta
+WARNING:root:There are few (1) columns in /Ases/public/Ases/data/thoraxe/wCaaCpvX2c/thoraxe/msa/msa_s_exon_4_0.fasta

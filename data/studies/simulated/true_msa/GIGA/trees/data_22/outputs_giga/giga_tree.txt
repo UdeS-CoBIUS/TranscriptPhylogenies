@@ -1,0 +1,1 @@
+(((transcript_4-15_ppan:0,transcript_5-15_ptro:0)1:0,transcript_8-34_pabe:0)1:0,(((((transcript_4-17_ppan:0,transcript_5-17_ptro:0)1:0,(transcript_4-2_ppan:0,transcript_5-2_ptro:0)1:0)1:0,transcript_6-2_hsap:0)1:0,transcript_7-2_ggor:0)1:0,transcript_8-2_pabe:0)1:0);

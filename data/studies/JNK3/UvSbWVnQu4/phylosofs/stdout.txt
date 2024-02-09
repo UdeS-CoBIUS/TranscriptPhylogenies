@@ -1,0 +1,158 @@
+--------------------------------------------
+Running phylogenetic reconstruction step...
+--------------------------------------------
+The exons are:
+['%', '(', ')', '+', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', ':', '<', '=', '?', 'A', 'B', 'C', 'E', 'Y', 'G', 'h', 'i', 'n', 'V', 'F', 'H', 'I', 'L', 'M']
+>>> 1
+
+leaf assign for max topo
+
+number of configurations: 720 
+
+tree cost for max topo 202.0
+>>> 2
+
+>>>>>> leaf assignment ...
+
+>>>>>> leaf assignment ended 
+
+>>>>>> tree cost ...
+
+number of configurations: 240 
+
+tree cost for current topo 193
+>>>>>> tree cost ended 
+
+Changing base
+
+Changing best solution
+
+>>> 3
+
+>>>>>> leaf assignment ...
+
+>>>>>> leaf assignment ended 
+
+>>>>>> tree cost ...
+
+number of configurations: 240 
+
+tree cost for current topo 188
+>>>>>> tree cost ended 
+
+Changing base
+
+Changing best solution
+
+>>> 4
+
+>>>>>> leaf assignment ...
+
+>>>>>> leaf assignment ended 
+
+>>>>>> tree cost ...
+
+number of configurations: 120 
+
+tree cost for current topo 179
+>>>>>> tree cost ended 
+
+Changing base
+
+Changing best solution
+
+>>> 5
+
+>>>>>> leaf assignment ...
+
+>>>>>> leaf assignment ended 
+
+>>>>>> tree cost ...
+
+number of configurations: 240 
+
+tree cost for current topo 179
+>>>>>> tree cost ended 
+
+>>> 6
+
+>>>>>> leaf assignment ...
+
+>>>>>> leaf assignment ended 
+
+>>>>>> tree cost ...
+
+number of configurations: 8 
+
+tree cost for current topo 174
+>>>>>> tree cost ended 
+
+Changing base
+
+Changing best solution
+
+>>> 7
+
+>>>>>> leaf assignment ...
+
+>>>>>> leaf assignment ended 
+
+>>>>>> tree cost ...
+
+number of configurations: 8 
+
+tree cost for current topo 174
+>>>>>> tree cost ended 
+
+>>> 8
+
+>>>>>> leaf assignment ...
+
+>>>>>> leaf assignment ended 
+
+>>>>>> tree cost ...
+
+number of configurations: 8 
+
+tree cost for current topo 171
+>>>>>> tree cost ended 
+
+Changing base
+
+Changing best solution
+
+>>> 9
+
+>>>>>> leaf assignment ...
+
+>>>>>> leaf assignment ended 
+
+>>>>>> tree cost ...
+
+number of configurations: 8 
+
+tree cost for current topo 171
+>>>>>> tree cost ended 
+
+>>> 10
+
+>>>>>> leaf assignment ...
+
+>>>>>> leaf assignment ended 
+
+>>>>>> tree cost ...
+
+number of configurations: 20 
+
+tree cost for current topo 160
+>>>>>> tree cost ended 
+
+Changing base
+
+Changing best solution
+
+
+>>> writing output...
+number of configurations: 20 
+
+finished in 7443.136103630066 seconds

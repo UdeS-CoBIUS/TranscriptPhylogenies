@@ -1,0 +1,8 @@
+joining fragments
+finished joining fragments
+making gene tree
+completed gene tree
+MAIN:inferred ancestral seqs
+MAIN:got branch lengths
+((transcript*4-27_ppan:0.000,transcript*5-27_ptro:0.000):0.000,(transcript*4-17_ppan:0.000,transcript*5-17_ptro:0.000):0.000);
+MAIN:printed gene tree
