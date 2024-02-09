@@ -166,4 +166,4 @@ The file yield a visualization of the transcript tree, as follows for instance:
 </p>
 
 ``legend``:
-green node :green_circle:: creation, red node :red_circle:: gene duplication, blue node :blue_circle:: apeciation. The transcripts in the same ortholog trees are displayed with a distinct color at the leaves. The LCA-reconciliation cost is given at the top of the figure.
+green node :green_circle:: creation, red node :red_circle:: gene duplication, blue node :large_blue_circle: speciation. The transcripts in the same ortholog trees are displayed with a distinct color at the leaves. The LCA-reconciliation cost is given at the top of the figure.
