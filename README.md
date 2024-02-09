@@ -167,3 +167,17 @@ The file yield a visualization of the transcript tree, as follows for instance:
 
 ``legend``:
 green node :green_circle:: creation, red node :red_circle:: gene duplication, blue node :large_blue_circle: speciation. The transcripts in the same ortholog trees are displayed with a distinct color at the leaves. The LCA-reconciliation cost is given at the top of the figure.
+
+<h3 name="project-files-description-data"> :heavy_check_mark: Dataset </h3>
+
+``The folder data contains dataset used for the studies and also the results obtained.``
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Copyright © 2024 CoBIUS LAB
