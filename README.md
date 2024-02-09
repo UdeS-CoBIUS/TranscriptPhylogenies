@@ -146,23 +146,24 @@ A *NHX* tree describing the evolution of the studied gene family.
 
 __Outputs folders/files__
 
-> dendogram 
+> dendogram/
 
-    The folder contains the guide tree in NEWICK.
+The folder contains the guide tree in NEWICK.
 
-> ortholog_trees
+> ortholog_trees/
 
-    The folder contains each ortholog trees.
+The folder contains each ortholog trees.
 
 > solution.nhx
 
-    The file contain the reconstructed transcript phylogeny In NHX format 
+The file contain the reconstructed transcript phylogeny In NHX format 
 
 > solution.svg
 
-    The file yield a visualization of the transcript tree, as follows for instance:
+The file yield a visualization of the transcript tree, as follows for instance:
 
  <p align="center"><img src='public/solution.svg' alt='solution' width=auto height=auto><br>
 </p>
 
-    green node: creation, red node: gene duplication, blue node: apeciation. The transcripts in the same ortholog trees are displayed with a distinct color at the leaves. The LCA-reconciliation cost is given at the top of the figure.
+``legend``:
+green node :green_circle:: creation, red node :red_circle:: gene duplication, blue node :blue_circle:: apeciation. The transcripts in the same ortholog trees are displayed with a distinct color at the leaves. The LCA-reconciliation cost is given at the top of the figure.
