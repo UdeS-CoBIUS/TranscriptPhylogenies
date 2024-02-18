@@ -54,7 +54,7 @@ The program was both developed and tested on a system operating Ubuntu version 2
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- ABOUT THE PROJECT -->
-<h2 name="clustering"> Inferring transscript phylogenies from transcript ortholog clusters</h2>
+<h2 name="clustering"> Inferring transcript phylogenies from transcript ortholog clusters</h2>
 
 <!-- Package -->
 <h3 name="package"> :package: About the package</h3>
@@ -166,7 +166,7 @@ The file yield a visualization of the transcript tree, as follows for instance:
 </p>
 
 ``legend``:
-green node :green_circle:: creation, red node :red_circle:: gene duplication, blue node :large_blue_circle: speciation. The transcripts in the same ortholog trees are displayed with a distinct color at the leaves. The LCA-reconciliation cost is given at the top of the figure.
+green node :green_circle:: creation, red node 🟥:: gene duplication, blue node :large_blue_circle: speciation. The transcripts in the same ortholog trees are displayed with a distinct color at the leaves. The LCA-reconciliation cost is given at the top of the figure.
 
 <h3 name="project-files-description-data"> :heavy_check_mark: Dataset </h3>
 
